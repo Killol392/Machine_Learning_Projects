@@ -1,0 +1,4 @@
+NOTE: 
+- Due to the large Dataset Size, I have removed the .mat files. 
+- To run the project please download the dataset from the link given below:-
+    - http://ufldl.stanford.edu/housenumbers/
